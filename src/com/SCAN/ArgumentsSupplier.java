@@ -1,4 +1,4 @@
-package com.VER_2;
+package com.SCAN;
 
 public interface ArgumentsSupplier {
      Arguments processArguments() throws ArgumentsException;

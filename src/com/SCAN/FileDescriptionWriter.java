@@ -1,4 +1,4 @@
-package com.VER_3;
+package com.SCAN;
 
 import java.io.File;
 import java.io.FileWriter;

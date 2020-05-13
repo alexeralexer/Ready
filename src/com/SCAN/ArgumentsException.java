@@ -1,4 +1,4 @@
-package com.VER_4;
+package com.SCAN;
 
 public class ArgumentsException extends Exception {
 

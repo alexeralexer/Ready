@@ -1,4 +1,4 @@
-package com.VER_4;
+package com.SCAN;
 
 import java.io.IOException;
 import java.util.Collection;
@@ -8,8 +8,8 @@ public class ScanTest {
 
     public static void main(String[] args) throws IOException {
 
-        String[] arg = new String[]{"C:/", "D:/", "Test"};  // для проверки не из консоли
-        //String[] arg = new String[]{"D:/Загрузки", "D:/", "Test", "exe"};  // для проверки не из консоли
+        //String[] arg = new String[]{"D:/Загрузки", "D:/", "Test"};  // для проверки не из консоли
+        String[] arg = new String[]{"D:/Загрузки", "D:/", "Test", "exe"};  // для проверки не из консоли
 
         try {
             ScanUtils.logExistingDrives();

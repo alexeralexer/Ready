@@ -1,4 +1,4 @@
-package com.VER_5;
+package com.SCAN;
 
 import java.io.File;
 import java.io.IOException;
